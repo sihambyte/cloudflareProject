@@ -1,0 +1,9 @@
+name = "worker-polished-base-4a34"
+main = "src/worker.js"
+compatibility_date = "2023-12-16"
+workers_dev = true
+
+[[kv_namespaces]]
+id = "6b3bd21952204cf29cce3cba16627162"
+binding = "KV"
+
